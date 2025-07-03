@@ -1,5 +1,11 @@
 @import "bootstrap/dist/css/bootstrap.min.css";
 
-body{
-    background: white;
+    /* style.css */
+body {
+  font-family: sans-serif;
+  padding: 2rem;
+  background-color: whitesmoke;
+  color: rgb(121, 121, 220);
+  text-align: center;
 }
+
